@@ -11,9 +11,7 @@
 | Review cadence | Weekly during build; monthly after go-live |
 
 
-## Should this project have a KPI, ROI, and business-value page?
-
-Yes. This page should be created early because it defines what success means before the solution is built.
+This page defines what success means before the solution is built.
 
 Without this page, the project can become a technical dashboard without proving value. With this page, the team can show fewer incidents, faster detection, less DBA manual effort, and improved SQL stability.
 
