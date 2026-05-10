@@ -1,0 +1,56 @@
+{
+  "space_title": "AI + Oracle 26ai Stale Tables Monitoring",
+  "labels": [
+    "oracle26ai",
+    "aiops",
+    "stale-statistics",
+    "db-performance",
+    "optimizer-statistics"
+  ],
+  "pages": [
+    {
+      "file": "00_Project_Home.md",
+      "title": "Project Home"
+    },
+    {
+      "file": "01_Problem_Statement_and_Use_Cases.md",
+      "title": "Problem Statement and Use Cases"
+    },
+    {
+      "file": "02_KPI_ROI_and_Business_Value.md",
+      "title": "KPI, ROI, and Business Value"
+    },
+    {
+      "file": "03_Oracle26ai_Stale_Statistics_Detection_Logic.md",
+      "title": "Oracle 26ai Stale Statistics Detection Logic"
+    },
+    {
+      "file": "04_AI_Anomaly_Detection_and_Prediction_Pipeline.md",
+      "title": "AI Anomaly Detection and Prediction Pipeline"
+    },
+    {
+      "file": "05_Solution_Architecture_and_Data_Flow.md",
+      "title": "Solution Architecture and Data Flow"
+    },
+    {
+      "file": "06_Data_Model_and_Features.md",
+      "title": "Data Model and Features"
+    },
+    {
+      "file": "07_Implementation_Plan_and_Runbook.md",
+      "title": "Implementation Plan and Runbook"
+    },
+    {
+      "file": "08_Risks_Assumptions_and_Governance.md",
+      "title": "Risks, Assumptions, and Governance"
+    },
+    {
+      "file": "09_SQL_Appendix.md",
+      "title": "SQL Appendix"
+    },
+    {
+      "file": "10_Official_Sources.md",
+      "title": "Official Sources"
+    }
+  ]
+}
